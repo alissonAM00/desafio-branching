@@ -57,3 +57,6 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+footer {
+  background-color: lightcyan;
+}
